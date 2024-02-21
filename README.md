@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! This is a showcase of my projects, skills, and experiences.
 
+![portfolio](https://github.com/saiff-19/Portfolio/assets/126145927/f3d53382-df07-4ac5-a68e-69fed38e7993)
+
 ## Overview
 
 This portfolio highlights my journey as a Web Developer and showcases my expertise in various domains. I've worked on diverse projects and gained valuable insights along the way. Feel free to explore my portfolio and learn more about my work.
